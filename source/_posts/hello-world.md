@@ -34,3 +34,14 @@ $ hexo deploy
 ```
 
 查看更多: [Deployment](https://hexo.io/docs/deployment.html)
+
+### 新建模版
+
+``` bash
+$ hexo  new “postName”  #新建文章
+$ new page “pageName”  #新建页面
+```
+
+查看更多: [Deployment](https://hexo.io/docs/deployment.html)
+
+
