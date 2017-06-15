@@ -1,38 +1,36 @@
 ---
-title: Hello World
+title: hexo用法
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
+## 开始
+<!-- mome -->
+### 创建项目
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "项目名称"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+查看更多: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### 开启服务
 
 ``` bash
 $ hexo server
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+查看更多: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### 生成静态文件 到public文件夹下
 
 ``` bash
 $ hexo generate
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+查看更多: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### 提交到git
 
 ``` bash
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+查看更多: [Deployment](https://hexo.io/docs/deployment.html)
